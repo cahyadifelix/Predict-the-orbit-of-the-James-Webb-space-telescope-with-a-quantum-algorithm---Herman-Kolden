@@ -9,7 +9,7 @@ Entangled Webb
 * Luis Reyna
 * Mohammed Amlieh
 * Göksun Beren Usta (Discord: goksun#8095, Github: goksunberen, Email: goksunberen@gmail.com)
-* Abhipsa Acharya
+* Abhipsa Acharya (Discord: Abhipsa#3353, GitHub: aviiacharya, Email: aacharya1@crimson.ua.edu)
 * Akshat Srivastava (Discord: ashtsrivastava#4998, Github: ashtsrivastava Email: ashtsrivastava@gmail.com)
 
 ## Solutions
