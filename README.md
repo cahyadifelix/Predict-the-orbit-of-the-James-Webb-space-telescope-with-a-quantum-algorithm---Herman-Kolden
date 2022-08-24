@@ -12,6 +12,9 @@ Entangled Webb
 * Abhipsa Acharya (Discord: Abhipsa#3353, GitHub: aviiacharya, Email: aacharya1@crimson.ua.edu)
 * Akshat Srivastava (Discord: ashtsrivastava#4998, Github: ashtsrivastava Email: ashtsrivastava@gmail.com)
 
+## Pitch Presenter
+* Luis Reyna
+
 ## Solutions
 * Our final report for all of the task can be seen [here](https://github.com/lakubis/Predict-the-orbit-of-the-James-Webb-space-telescope-with-a-quantum-algorithm---Herman-Kolden/blob/main/Entangled_Webb_Final%20report.pdf)
 * Our Jupyter notebook for Task 1 is [here](https://github.com/lakubis/Predict-the-orbit-of-the-James-Webb-space-telescope-with-a-quantum-algorithm---Herman-Kolden/blob/main/Task_1_submit.ipynb)
